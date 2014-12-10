@@ -1,0 +1,13 @@
+;Copyright 2014 Kody Van Ry
+;Copyright KopperKow
+;Any distribution of this without written consent is prohibited
+
+#Koder
+4
+[2,2]
+[]
+
+#Zamigolo
+4
+[2,3]
+[]
